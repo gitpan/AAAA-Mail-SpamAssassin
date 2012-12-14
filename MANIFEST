@@ -7,6 +7,7 @@ Makefile.PL
 README
 dist.ini
 lib/AAAA/Mail/SpamAssassin.pm
+t/00-compile.t
 t/release-eol.t
 t/release-no-tabs.t
 t/release-pod-coverage.t

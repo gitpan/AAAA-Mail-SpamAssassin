@@ -29,6 +29,11 @@
             "strict" : "0",
             "warnings" : "0"
          }
+      },
+      "test" : {
+         "requires" : {
+            "Test::More" : "0"
+         }
       }
    },
    "release_status" : "stable",
@@ -44,7 +49,7 @@
          "web" : "http://github.com/renormalist/AAAA-Mail-SpamAssassin"
       }
    },
-   "version" : "0.001",
+   "version" : "0.002",
    "x_Dist_Zilla" : {
       "plugins" : [
          {
